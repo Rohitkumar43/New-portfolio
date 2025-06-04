@@ -1,5 +1,5 @@
 import { Users, Star, Briefcase, TrendingUp } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Button } from '../components/ui/button';
 
 const FreelanceSection = () => {
   const stats = [

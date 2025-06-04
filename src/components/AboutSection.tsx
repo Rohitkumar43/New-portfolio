@@ -1,5 +1,5 @@
 import { Code, Briefcase, Server, Database, Github, Gitlab } from 'lucide-react';
-import { Docker as DockerIcon } from '@/components/icons/Docker';
+import { Docker as DockerIcon } from '../components/icons/Docker';
 
 const AboutSection = () => {
   const skillCategories = {
